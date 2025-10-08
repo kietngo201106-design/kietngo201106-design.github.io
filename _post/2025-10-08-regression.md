@@ -1,3 +1,6 @@
+---
+layout: post
+---
 
 # Load the PDF and extract text
 doc = fitz.open("regression_practice.pdf")
